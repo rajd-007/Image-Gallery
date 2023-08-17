@@ -1,6 +1,6 @@
 # Image-gallery
 This is a cool image gallery website which displays different images with cool hover effects.
-Link To Visit The Website:-
+Link To Visit The Website:- https://rajd-007.github.io/Image-Gallery/
 
 Image Gallery
 This project is a simple image gallery built using HTML and CSS. It allows users to view a collection of images.
